@@ -1,0 +1,41 @@
+Hi!
+
+I knew you would do it.
+If you are reading this message, it means that you use your brain to think, and not just follow weird instructions.
+You’ll become a great programmer!
+
+In this project, you can create your own classes and run them.
+Create classes in separate packages, so they do not conflict with each other.
+
+To run a class, just press Ctrl + Shift + F10
+(class must contain a method main)
+
+
+To make your life easier, I wrote a plugin for Intellij IDEA. Use it to solve JavaRush tasks and check them.
+It's very easy to install it:
+1 Run Intellij IDEA
+2 Press Ctrl + Alt + S
+3 Press «Install plugin from disk»
+4 Select the file "JavaRushIdeaPlugin/lib/IdeaPlugin.jar" from the archive where this document is
+
+If something goes wrong, you can always install the plugin by yourself.
+Just copy JavaRushIdeaPlugin directory with all files it has to the folder where your Intellij IDEA is located, into the subdirectory “plugins”.
+Most likely, this path looks like this:
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 14.0.3\plugins
+
+After installation of plugin, restart the Intellij IDEA.
+
+
+If you’ve installed the plugin correctly, you will see in top menu of Intellij IDEA two additional buttons: 5th and 6th buttons on the right.
+Use the left button to choose a task for solving. All tasks shown there are available to you at the moment.
+Use the second button to send the task to the server for checking.
+
+
+
+Captain John Squirrels
+
+
+P.S
+Your secret key is in the file JavaRushPlugin.propeties. Use it for authentication.
+Do not show it to anyone.
+
