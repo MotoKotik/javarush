@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="add com.javarush.test.level05.lesson12.home01">
+    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="add com.javarush.test.level05.lesson12.home02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
@@ -64,23 +64,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="50" />
+          <entry key="java" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="50" />
+          <entry key="JAVA" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4291" />
+          <entry key="java" value="4485" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4291" />
+          <entry key="JAVA" value="4485" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -132,19 +132,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson09/task01/Friend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-              <folding>
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson09/task02/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
@@ -180,7 +167,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home02/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -191,6 +178,15 @@
                 <element signature="e#1292#1293#0" expanded="true" />
                 <element signature="e#1332#1333#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home03/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -258,6 +254,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson09/task05/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home02/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home03/Solution.java" />
       </list>
     </option>
   </component>
@@ -304,7 +301,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541943340242" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541944796627" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.searchVisible" value="true" />
@@ -842,7 +839,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541943355507</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="add com.javarush.test.level05.lesson12.home02">
+      <created>1541944444975</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1541944444975</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -886,7 +890,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="add com.javarush.test.level04.lesson13.task01" />
     <MESSAGE value="add com.javarush.test.level04.lesson13.task02" />
     <MESSAGE value="add com.javarush.test.level04.lesson13.task03" />
     <MESSAGE value="add com.javarush.test.level04.lesson13.task04" />
@@ -911,17 +914,11 @@
     <MESSAGE value="add com.javarush.test.level05.lesson09.task04" />
     <MESSAGE value="add com.javarush.test.level05.lesson09.task05" />
     <MESSAGE value="add com.javarush.test.level05.lesson12.home01" />
-    <option name="LAST_COMMIT_MESSAGE" value="add com.javarush.test.level05.lesson12.home01" />
+    <MESSAGE value="add com.javarush.test.level05.lesson12.home02" />
+    <option name="LAST_COMMIT_MESSAGE" value="add com.javarush.test.level05.lesson12.home02" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DO NOT READ.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson08/task05/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1315,6 +1312,13 @@
             <element signature="e#1292#1293#0" expanded="true" />
             <element signature="e#1332#1333#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home03/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
