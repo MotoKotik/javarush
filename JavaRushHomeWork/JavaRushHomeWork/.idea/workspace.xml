@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="add com.javarush.test.level04.lesson13.task04">
+    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="add com.javarush.test.level04.lesson13.task05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
@@ -64,23 +64,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="29" />
+          <entry key="java" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2498" />
+          <entry key="java" value="2543" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2498" />
+          <entry key="JAVA" value="2543" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -92,91 +92,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson10/task01/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task05/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson10/task02/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson10/task03/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson10/task04/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson10/task05/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task01/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task02/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task03/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46">
-              <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task04/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+            <state relative-caret-position="328">
+              <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task05/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson16/home01/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+            <state relative-caret-position="221">
+              <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -223,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task03/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task04/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task05/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson16/home01/Solution.java" />
       </list>
     </option>
   </component>
@@ -269,7 +198,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541938066219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541938201031" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.searchVisible" value="true" />
@@ -660,7 +589,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541938083656</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add com.javarush.test.level04.lesson13.task05">
+      <created>1541938189047</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1541938189047</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -704,7 +640,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="add com.javarush.test.level03.lesson08.task02" />
     <MESSAGE value="add com.javarush.test.level03.lesson08.task01" />
     <MESSAGE value="add com.javarush.test.level03.lesson12.home03" />
     <MESSAGE value="add com.javarush.test.level03.lesson12.home02" />
@@ -729,7 +664,8 @@
     <MESSAGE value="add com.javarush.test.level04.lesson13.task02" />
     <MESSAGE value="add com.javarush.test.level04.lesson13.task03" />
     <MESSAGE value="add com.javarush.test.level04.lesson13.task04" />
-    <option name="LAST_COMMIT_MESSAGE" value="add com.javarush.test.level04.lesson13.task04" />
+    <MESSAGE value="add com.javarush.test.level04.lesson13.task05" />
+    <option name="LAST_COMMIT_MESSAGE" value="add com.javarush.test.level04.lesson13.task05" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -958,6 +894,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson16/home01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
         </state>
       </provider>
     </entry>
